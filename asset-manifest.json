@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.172d3b5d.css",
-    "main.js": "/static/js/main.95755a52.js",
+    "main.css": "/static/css/main.cae51ab3.css",
+    "main.js": "/static/js/main.b8cee906.js",
+    "static/media/logo.png": "/static/media/logo.e30ac03dc46f2fccf79d.png",
     "static/media/Inter.ttf": "/static/media/Inter.afdb8a07907da21452bf.ttf",
+    "static/media/photo_2023-06-05_18-00-10.jpg": "/static/media/photo_2023-06-05_18-00-10.b3d386569cc8ada2bbc3.jpg",
+    "static/media/photo_2023-06-05_18-00-44.jpg": "/static/media/photo_2023-06-05_18-00-44.0eab606b97fa5c165fbd.jpg",
+    "static/media/traditional-suburban-house-122121.jpg.webp": "/static/media/traditional-suburban-house-122121.jpg.f41b135a823acfa97496.webp",
     "static/media/Coolvetica.ttf": "/static/media/Coolvetica.42f59941755a61fca2d0.ttf",
     "index.html": "/index.html",
-    "main.172d3b5d.css.map": "/static/css/main.172d3b5d.css.map",
-    "main.95755a52.js.map": "/static/js/main.95755a52.js.map"
+    "main.cae51ab3.css.map": "/static/css/main.cae51ab3.css.map",
+    "main.b8cee906.js.map": "/static/js/main.b8cee906.js.map"
   },
   "entrypoints": [
-    "static/css/main.172d3b5d.css",
-    "static/js/main.95755a52.js"
+    "static/css/main.cae51ab3.css",
+    "static/js/main.b8cee906.js"
   ]
 }
