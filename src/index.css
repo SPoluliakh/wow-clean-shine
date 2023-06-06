@@ -27,6 +27,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
+  color: #232323;
 }
 
 code {
@@ -89,6 +90,6 @@ button {
 
   @media screen and (min-width: 1440px) {
     width: 1440px;
-    padding: 0 24px;
+    padding: 0 16px;
   }
 }

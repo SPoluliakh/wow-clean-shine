@@ -1,3 +1,10 @@
+import { Route, Routes } from 'react-router';
+import DevelopmentPage from '../../pages/DevelopmentPage/DevelopmentPage';
+
 export const App = () => {
-  return <>WOW clean shine</>;
+  return (
+    <Routes>
+      <Route path="/" element={<DevelopmentPage />} />
+    </Routes>
+  );
 };
