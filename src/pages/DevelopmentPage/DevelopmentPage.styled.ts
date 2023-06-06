@@ -63,7 +63,7 @@ export const Logo = styled.img`
 
 export const MainContent = styled.div`
   @media screen and (min-width: 768px) {
-    flex-basis: 66%;
+    flex-basis: 70%;
   }
 `;
 
@@ -138,7 +138,7 @@ export const ContentList = styled.ul`
 
 export const TextCard = styled.li`
   padding: 16px;
-  border: 1px solid #323232;
+  border: 3px solid #2f9796;
   border-radius: 8px;
   background-color: rgba(255, 255, 255, 0.5);
 
