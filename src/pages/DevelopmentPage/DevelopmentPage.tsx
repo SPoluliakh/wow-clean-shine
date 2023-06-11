@@ -19,6 +19,14 @@ const DevelopmentPage = () => {
               <SC.MainTitle>WOW! Clean & Shine</SC.MainTitle>
               <SC.ContactsList>
                 <li>
+                  <SC.Contact
+                    href="https://www.facebook.com/wowcleanandshine?mibextid=LQQJ4d"
+                    target="_blank"
+                  >
+                    <SC.Facebook />
+                  </SC.Contact>
+                </li>
+                <li>
                   <SC.Contact href="tel:8036341263">(803)634-1263</SC.Contact>
                 </li>
                 <li>

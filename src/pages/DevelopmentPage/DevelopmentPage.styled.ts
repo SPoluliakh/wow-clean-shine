@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { SVG } from '../../images';
 
 export const Disclaimer = styled.div`
   position: absolute;
@@ -100,6 +101,7 @@ export const ContactsList = styled.ul`
 
   @media screen and (min-width: 1440px) {
     flex-direction: row;
+    flex-wrap: wrap;
     gap: 64px;
   }
 `;
@@ -112,13 +114,27 @@ export const Contact = styled.a`
   line-height: 1.2;
   text-align: center;
 
-  @media screen and (min-width: 768px) {
-  }
+  transition: color 300ms ease;
 
   @media screen and (min-width: 1440px) {
     font-size: 24px;
     :hover {
       color: orange;
+    }
+  }
+`;
+
+export const Facebook = styled(SVG.Facebook)`
+  animation: facebook 1000ms ease infinite alternate;
+  transition: color 300ms ease;
+
+  @keyframes facebook {
+    0% {
+      transform: scale(1);
+    }
+
+    100% {
+      transform: scale(1.2);
     }
   }
 `;
