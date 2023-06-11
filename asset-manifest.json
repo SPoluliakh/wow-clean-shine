@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cae51ab3.css",
-    "main.js": "/static/js/main.d1b3b40f.js",
+    "main.css": "/static/css/main.dc36e0bd.css",
+    "main.js": "/static/js/main.ffb7c3d5.js",
     "static/media/logo.png": "/static/media/logo.e30ac03dc46f2fccf79d.png",
     "static/media/Inter.ttf": "/static/media/Inter.afdb8a07907da21452bf.ttf",
     "static/media/photo_2023-06-05_18-00-10.jpg": "/static/media/photo_2023-06-05_18-00-10.b3d386569cc8ada2bbc3.jpg",
@@ -9,11 +9,12 @@
     "static/media/traditional-suburban-house-122121.jpg.webp": "/static/media/traditional-suburban-house-122121.jpg.f41b135a823acfa97496.webp",
     "static/media/Coolvetica.ttf": "/static/media/Coolvetica.42f59941755a61fca2d0.ttf",
     "index.html": "/index.html",
-    "main.cae51ab3.css.map": "/static/css/main.cae51ab3.css.map",
-    "main.d1b3b40f.js.map": "/static/js/main.d1b3b40f.js.map"
+    "static/media/facebook.svg": "/static/media/facebook.67a4193e5fbeeb82b8f5b1e8d6bd0a0a.svg",
+    "main.dc36e0bd.css.map": "/static/css/main.dc36e0bd.css.map",
+    "main.ffb7c3d5.js.map": "/static/js/main.ffb7c3d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.cae51ab3.css",
-    "static/js/main.d1b3b40f.js"
+    "static/css/main.dc36e0bd.css",
+    "static/js/main.ffb7c3d5.js"
   ]
 }
